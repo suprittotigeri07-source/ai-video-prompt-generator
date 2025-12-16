@@ -23,3 +23,4 @@ Helps creative teams quickly generate structured prompts for AI video tools like
 
 - JSON-based scene descriptions
 - Ad-ready creative structure
+ 
